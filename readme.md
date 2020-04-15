@@ -4,8 +4,8 @@
 
 ## Content
 
-+ [Introduction] (#introduction)
-+ [Installation] (#installation)
++ [Introduction](#introduction)
++ [Installation](#installation)
 
 ## Introduction
 Here some text introducing the Plugin.
