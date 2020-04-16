@@ -1,11 +1,11 @@
 # Nice Lists For Woocommerce [Plugin]
 
 ### 15-04-2020
-**New:** Created initial Project Commitment.
+- **New:** Created initial Project Commitment.
 
 ### 16-04-202
-**Added:** An introduction to the upcoming styles
-**Added:** Installation Description for FTP
+- **Added:** An introduction to the upcoming styles.
+- **Added:** Installation Description for FTP.
 
 ## Content
 
